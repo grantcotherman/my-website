@@ -1,6 +1,19 @@
 ---
-title: Home
+title: Grant Cotherman
+layout: base.html
 ---
-# Welcome
+## Grant Cotherman
+---
+This is my personal site. It's a place for both the useful and useless.
 
-This is my site. Here's a link to my [about page](/about/).
+---
+
+### Assets
+- [About Me](/about/)
+- [Bookshelf](/bookshelf/)
+
+### Links
+- <a href="https://www.linkedin.com/in/grant-cotherman/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://github.com/grantcotherman" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+--- 
