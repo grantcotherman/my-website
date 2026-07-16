@@ -10,7 +10,7 @@ This is my personal site. It's a place for both the useful and useless.
 
 ### Assets
 - [About Me](/about/)
-- [Bookshelf](/bookshelf/)
+- [Shelf](/bookshelf/)
 
 ### Links
 - <a href="https://www.linkedin.com/in/grant-cotherman/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
