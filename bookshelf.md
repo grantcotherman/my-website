@@ -13,6 +13,7 @@ layout: base.html
 - Spark: The Definitive Guide / Matei Zaharia, Bill Chambers
 - A Parade of Horribles / Matt Dinniman
 - Walden / Henry David Thoreau
+- Analytics Engineering with SQL and dbt / Rui Machado, Helder Russa
 ---
 
 ### My Movie Suggestions
