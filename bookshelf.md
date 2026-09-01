@@ -14,6 +14,7 @@ layout: base.html
 - A Parade of Horribles / Matt Dinniman
 - Walden / Henry David Thoreau
 - Analytics Engineering with SQL and dbt / Rui Machado, Helder Russa
+- Principles / Ray Dalio
 ---
 
 ### My Movie Suggestions
