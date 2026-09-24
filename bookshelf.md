@@ -15,6 +15,7 @@ layout: base.html
 - Walden / Henry David Thoreau
 - Analytics Engineering with SQL and dbt / Rui Machado, Helder Russa
 - Principles / Ray Dalio
+- Slow Productivity / Cal Newport
 ---
 
 ### My Movie Suggestions
