@@ -11,8 +11,8 @@ I currently live in Fayetteville, AR where you can find me walking my dog and go
 Prior to that I was in Williamsport, PA. Go Birds.
 
 ### Experience
-- Analytics Consultant, GiftBeat Magazine (2025-Present)
 - Analytics Engineer, State of Vermont Agency of Education (2024-Present)
+- Analytics Consultant, GiftBeat Magazine (2025-Present)
 - Graduate Teaching Assistant, Oklahoma State University (2022)
 - PADI Divemaster, Gene's Scuba (2016-2022)
 
