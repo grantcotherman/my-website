@@ -1,25 +1,19 @@
 ---
-title: Shelf
+title: Bookshelf
 layout: base.html
 ---
-## Shelf
-
----
-
+## Bookshelf
 
 ### 2026
-- Walking the Nile / Levison Wood
-- Databricks Certified Data Engineer Asso Study Guide / Derar Alhussein
-- Spark: The Definitive Guide / Matei Zaharia, Bill Chambers
-- A Parade of Horribles / Matt Dinniman
-- Walden / Henry David Thoreau
-- Analytics Engineering with SQL and dbt / Rui Machado, Helder Russa
-- Principles / Ray Dalio
-- Slow Productivity / Cal Newport
----
-
-### My Movie Suggestions
-- Perfect Days
-- Jiro Dreams of Sushi
+- *A Message From Ukraine* Volodymyr Zelensky
+- *Steve Jobs* Walter Isaacson
+- *Slow Productivity* Cal Newport
+- *Principles* Ray Dalio
+- *Analytics Engineering with SQL and dbt* Rui Machado, Helder Russa
+- *Walden* Henry David Thoreau
+- *A Parade of Horribles* Matt Dinniman
+- *Spark: The Definitive Guide* Matei Zaharia, Bill Chambers
+- *Databricks Certified Data Engineer Asso Study Guide* Derar Alhussein
+- *Walking the Nile* Levison Wood
 
 [Back home](/)

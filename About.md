@@ -10,20 +10,19 @@ I currently live in Fayetteville, AR where you can find me walking my dog and go
 
 Prior to that I was in Williamsport, PA. Go Birds.
 
----
-
 ### Credentials
 
 #### Degrees
  - BS Economics
  - MBA
- - MS. Management Information Systems
+ - MS Management Information Systems
 
 #### Certifications
 - Databricks Data Engineer Associate
 - Databricks Spark Developer Associate
 - CompTIA Security+
 - Microsoft Azure Data Fundamentals
+- AWS Cloud Practitioner
 
 #### Work Experience
 - Analytics Engineer, State of Vermont Agency of Education (2024-Present)
@@ -31,5 +30,4 @@ Prior to that I was in Williamsport, PA. Go Birds.
 - Graduate Teaching Assistant, Oklahoma State University (2022)
 - PADI Divemaster, Gene's Scuba (2016-2022)
 
----
 [Back home](/)
