@@ -5,6 +5,7 @@ layout: base.html
 ## Bookshelf
 
 ### 2026
+- *The Russo-Ukrainian War* Serhii Plokhy
 - *A Message From Ukraine* Volodymyr Zelensky
 - *Steve Jobs* Walter Isaacson
 - *Slow Productivity* Cal Newport
