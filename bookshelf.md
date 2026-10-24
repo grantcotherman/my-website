@@ -6,7 +6,7 @@ layout: base.html
 
 ### 2026
 - *Chernobyl Roulette* Serhii Plokhy
-- *I Will Show How It Was - The Story of Wartime Kyiv* Illia Ponomarenko
+- *I Will Show How It Was* Illia Ponomarenko
 - *Utopia For Realists* Rutger Bregman
 - *The Russo-Ukrainian War* Serhii Plokhy
 - *A Message From Ukraine* Volodymyr Zelensky
