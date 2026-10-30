@@ -5,12 +5,12 @@ layout: base.html
 ## Bookshelf
 
 ### 2026
-- *Our Enemies Will Vanish* Yaroslov Trofimov
+- *Our Enemies Will Vanish* Yaroslav Trofimov
 - *Chernobyl Roulette* Serhii Plokhy
-- *I Will Show How It Was* Illia Ponomarenko
-- *Utopia For Realists* Rutger Bregman
+- *I Will Show You How It Was* Illia Ponomarenko
+- *Utopia for Realists* Rutger Bregman
 - *The Russo-Ukrainian War* Serhii Plokhy
-- *A Message From Ukraine* Volodymyr Zelensky
+- *A Message from Ukraine* Volodymyr Zelensky
 - *Steve Jobs* Walter Isaacson
 - *Slow Productivity* Cal Newport
 - *Principles* Ray Dalio
