@@ -5,6 +5,7 @@ layout: base.html
 ## Bookshelf
 
 ### 2026
+- *Our Enemies Will Vanish* Yaroslov Trofimov
 - *Chernobyl Roulette* Serhii Plokhy
 - *I Will Show How It Was* Illia Ponomarenko
 - *Utopia For Realists* Rutger Bregman
