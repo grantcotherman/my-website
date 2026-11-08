@@ -5,6 +5,7 @@ layout: base.html
 ## Bookshelf
 
 ### 2026
+- *The Mission* Tim Weiner
 - *Our Enemies Will Vanish* Yaroslav Trofimov
 - *Chernobyl Roulette* Serhii Plokhy
 - *I Will Show You How It Was* Illia Ponomarenko
